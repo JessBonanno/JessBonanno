@@ -1,5 +1,5 @@
 ### Hi there 👋
-### I'm a fullstack developer. I enjoy working with others as well as for teaching when the opportunity arises.
+### I'm a fullstack developer. I enjoy working with others as well as teaching/helping when the opportunity arises.
 
 - 🔭 I’m graduating from Lambda School next month!
 - 🌱 I’m in love with learning and always hungry for more
