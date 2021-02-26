@@ -1,7 +1,7 @@
 ### Thanks for stopping by! 👋
 ### I'm a fullstack developer. I enjoy working with others as well as teaching/helping when the opportunity arises.
 
-- 🔭 I’m a Lambda School Graduate
+- 🔭 I’m a Lambda School Graduate Hack Reactor student and Next Chapter apprentice
 - 🌱 I’m in love with learning and always hungry for more
 - 👯 I’m looking for my first fulltime software engineer career
 - 🤔 I’m looking for help with... see above! 😄
