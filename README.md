@@ -3,12 +3,12 @@
 
 - 🔭 I’m a Lambda School Graduate, Hack Reactor student, Next Chapter apprentice, and Underdog Devs mentor/mentee
 - 🌱 I’m in love with learning and always hungry for more
-- 👯 I’m looking for my first fulltime software engineer career
+- 👯 I’m doing what I love for a living and consider myself extremely fortunate
 - 🤔 I’m looking for help with... see above! 😄
 - 💬 Ask me about anything you like, I love to help wherever I can!
 - 📫 How to reach me: @_JessBonanno on twitter, I'd love to connect!
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I'm involved with Underdog Devs, an amazing non profit helping the formerly incarcerated with a passion for coding break into the industry.
+- ⚡ Fun fact: I'm involved with Underdog Devs, an amazing non profit helping the formerly incarcerated with a passion for coding break into the industry
 
    @UnderdogDevs on twitter Go check it out! We're always looking for more mentors, donations, and of course formerly incarcerated devs who are hungry!
 
