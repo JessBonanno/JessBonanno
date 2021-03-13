@@ -4,7 +4,7 @@
 - 🔭 I’m a Lambda School Graduate, Hack Reactor student, Next Chapter apprentice, and Underdog Devs mentor/mentee
 - 🌱 I’m in love with learning and always hungry for more
 - 👯 I’m doing what I love for a living and consider myself extremely fortunate
-- 🤔 I’m looking for help with... see above! 😄
+- 🤔 I’m a bug hunter and code safarist 😄
 - 💬 Ask me about anything you like, I love to help wherever I can!
 - 📫 How to reach me: @_JessBonanno on twitter, I'd love to connect!
 - 😄 Pronouns: She/Her
