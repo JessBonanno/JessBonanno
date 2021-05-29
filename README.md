@@ -12,5 +12,5 @@
 
    @UnderdogDevs on twitter Go check it out! We're always looking for more mentors, donations, and of course formerly incarcerated devs who are hungry!
 
-#### My stack includes Python | JavaScript | Typescript | React |  Nodejs | Express |  SQL | HTML | CSS | GIT | Agile | Deployment | OOP  Unit Testing | REST APIs | Figma
+#### My stack includes Python | JavaScript | Typescript | React |  Nodejs | Express |  SQL | HTML | CSS | GIT | Agile | Deployment | REST APIs | Figma
 
